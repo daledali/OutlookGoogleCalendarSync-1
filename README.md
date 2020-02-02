@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/phw198/OutlookGoogleCalendarSync) 
+
 # <img src="https://github.com/phw198/OutlookGoogleCalendarSync/raw/master/docs/images/ogcs128x128.png" valign="middle"> Outlook Google Calendar Sync
 
 > Offers calendar synchronisation between Outlook and Google, including attendees and reminders.  
